@@ -25,7 +25,7 @@ With 6+ years of full-stack web & mobile app development experience for global b
   <ul>
     <li>Front-End: React.js, Angular, Vue.js, Svelte</li>
     <li>Back-End: NodeJS/ExpressJS, Django, Laravel, Nestjs</li>
-    <li>Mobile:React Native, Flutter</li>
+    <li>Mobile: React Native, Flutter</li>
     <li>Database Programming: MySQL, MongoDB, PostgreSQL, MS SQL, SQLite</li>
     <li>BlockChain: Bitcoin, Ethereum, Ethereum 2.0, Solidity, ERC(BEP)20/721/1155, Stable Coin, Binance, UniSwap(SushiSwap), Staking Pool, Mining Pool, Dapp, Web3.js, Ether.js</li>
     <li>Other: Git, SVN, Jira, Trello, Docker, Jenkins, Jestjs, Jasmine,Selenium, GCP, AWS, Firebase, Three.js</li>
